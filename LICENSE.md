@@ -1,4 +1,4 @@
-ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+---
 
 Software Name: i18n ja Util VSCode Extension
 
